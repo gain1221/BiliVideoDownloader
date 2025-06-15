@@ -19,7 +19,7 @@
 - 以下Python包：
   - requests
   - tqdm
-
+- 需要自行下载FFmpeg
 ## 安装步骤
 
 1. 克隆或下载本项目到本地
