@@ -8,3 +8,14 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Project specific folders
+video/
+audio/ 
+output/
+
+# Project config files
+pyproject.toml
+uv.lock
+.python-version
+ffmpeg.exe
