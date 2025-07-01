@@ -1,8 +1,6 @@
 import os
 import subprocess
 from pathlib import Path
-from tqdm import tqdm
-
 
 def merge_av(video_dir, audio_dir, output_dir, ffmpeg_path='./ffmpeg'):
     """
